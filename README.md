@@ -1,4 +1,4 @@
-# Discrimination of neutron and gamma-rays based on brain-like neural networks
+# Pulse shape discrimination of neutron and gamma-ray using neuromorphic models
 
 ## Introduction
 
